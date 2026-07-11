@@ -1,14 +1,24 @@
 {
-  "schema": 1,
-  "generated_at": "2026-06-26T12:00:00Z",
-  "game_currency": "もちもちコイン",
+  "schema": 2,
+  "generated_at": "2026-07-11T01:51:39Z",
+  "game_currency": "mochi",
+  "feed": {
+    "source": "European Central Bank via Frankfurter",
+    "source_rate_date": "2026-07-10",
+    "source_rate": 161.87,
+    "mode": "reference_anchored_sim",
+    "quote_kind": "indicative_game_quote",
+    "market_status": "closed",
+    "refresh_seconds": 300,
+    "sequence": 5945735
+  },
   "pairs": {
     "USDJPY": {
-      "bid": 160.140,
-      "ask": 160.130,
-      "mid": 160.135,
-      "spread": 0.010,
-      "ts": "2026-06-26T11:55:00Z"
+      "bid": 161.877,
+      "ask": 161.887,
+      "mid": 161.882,
+      "spread": 0.01,
+      "ts": "2026-07-10T21:55:00Z"
     }
   }
 }
