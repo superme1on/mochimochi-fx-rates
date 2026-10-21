@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "checked_at": "2026-10-20T20:39:27Z",
+  "checked_at": "2026-10-21T20:40:26Z",
   "base": "USD",
   "quote": "JPY",
-  "rate": 158.13,
-  "rate_date": "2026-10-20",
+  "rate": 157.88,
+  "rate_date": "2026-10-21",
   "source": "European Central Bank via Frankfurter"
 }
